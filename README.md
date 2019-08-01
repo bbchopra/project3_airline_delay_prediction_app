@@ -6,6 +6,12 @@ Bharat, Gokul and Ritesh @UCB @2019
 
 ![airlines_project](static/images/flights.PNG)
 
+## App published using Heroku 
+https://airline-predictor-delay.herokuapp.com/
+
+The API KEYs have been removed from the config.js files.
+In order to run the application, download all files and apply your own API KEY in the Config.js and Config_SGS.js and run using Flask.
+
 ## Introduction
 
 The Airline-Delay Predictor App gives you the ability to predict the probability of arrival delay to your destination. 
